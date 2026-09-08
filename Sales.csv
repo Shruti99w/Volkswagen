@@ -1,0 +1,13 @@
+SaleID,CustomerID,CustomerName,Region,Product,ProductCategory,OrderDate,Quantity,Revenue
+1001,C001,Alice,Pune,Laptop,Electronics,2026-08-01,2,2400.0
+1002,C002,Bob,Mumbai,Monitor,Electronics,2026-08-02,3,900.0
+1003,C003,Charlie,Delhi,Office Chair,Furniture,2026-08-03,5,1250.0
+1004,C001,Alice,Pune,Laptop,Electronics,2026-08-05,1,1200.0
+1005,C002,Bob,Mumbai,Desk,Furniture,2026-08-07,2,700.0
+1006,C003,Charlie,Delhi,Keyboard,Accessories,2026-08-09,4,320.0
+1007,C001,Alice,Pune,Laptop,Electronics,2026-08-12,1,1200.0
+1008,C002,Bob,Mumbai,Monitor,Electronics,2026-08-15,2,600.0
+1009,C003,Charlie,Delhi,Desk,Furniture,2026-08-18,3,1050.0
+1010,C001,Alice,Pune,Mouse,Accessories,2026-08-20,5,250.0
+1011,C002,Bob,Mumbai,Laptop,Electronics,2026-08-22,1,1200.0
+1012,C003,Charlie,Delhi,Monitor,Electronics,2026-08-25,1,300.0
